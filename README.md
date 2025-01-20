@@ -9,3 +9,4 @@
 - 2023,2024 Speech-to-speech Translation at Spring Speech Processing for Conversational AI at LTI, CMU ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/11492_692_speech-to-speech-translation.pdf))
 - 2024 Invited talk at Huawei ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/Huawei-invited-talk-20240320.pptx.pdf))
 - 2024 Invited talk at NTU-Alibaba ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/NTU-Alibaba-InvitedTalk-Mar26.pptx.pdf))
+- 2024 SPhnix Lunch on ESPnet-Codec and VERSA ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/SphnixLunch1032-2024-espnet-codec.pdf))
