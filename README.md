@@ -12,3 +12,4 @@
 - 2024 Sphnix Lunch on ESPnet-Codec and VERSA ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/SphnixLunch1032-2024-espnet-codec.pdf))
 - 2024 Job Talk Slides ([overall slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/2024-simplified-job-talk.pdf) and [technical slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/2024-techinical-job-talk-mrhubert.pdf))
 - 2025 Improving Universality for Speech Representation Learning. Thesis Proposal Slides ([v1 with more details](https://github.com/ftshijt/PublicLectureSlides/blob/main/Jiatong-thesis-proposal.pdf) and [v2 in simplified form](https://github.com/ftshijt/PublicLectureSlides/blob/main/Jiatong-thesis-proposal-v2.pdf))
+- 2025 ESPnet-Codec Introduction to Amazon ([slides](https://github.com/ftshijt/PublicLectureSlides/blob/main/amazon-espnet-codec.pdf))
